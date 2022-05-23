@@ -1,0 +1,17 @@
+take Letter1
+go up
+take Key
+go down
+go north
+go north
+take Knife
+take Rock1
+go north
+go north
+take Rock2
+go east
+take Rock3
+go north
+take Letter2
+take Rock4
+go west

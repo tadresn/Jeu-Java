@@ -1,0 +1,17 @@
+#Wed Dec 29 21:13:45 CET 2021
+bluej.teamsettings.groupname=
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=Nicolas Tadres
+bluej.teamsettings.git.server=git.esiee.fr
+bluej.teamsettings.yourEmail=nicolas.tadres@edu.esiee.fr
+bluej.teamsettings.git.repositoryPrefix=/tadresn/projetjavazuul.git
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=tadresn
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.ignore8=\\.DS_Store

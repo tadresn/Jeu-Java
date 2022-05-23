@@ -1,0 +1,7 @@
+help
+go up
+go down
+go north
+look
+take Letter1
+quit

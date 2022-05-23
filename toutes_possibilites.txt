@@ -1,0 +1,34 @@
+help
+take
+take Key
+take Letter1
+look
+go up
+take Beamer
+charge Beamer
+drop
+drop Key
+drop Letter1
+inventaire
+take Key
+inventaire
+take magicCookie
+inventaire
+eat
+eat Letter1
+eat Key
+eat magicCookie
+inventaire
+go down
+go north
+go north
+go north
+go north
+go east
+go north
+go west
+go south
+back
+fire Key
+fire Beamer
+quit

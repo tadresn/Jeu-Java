@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \r\n\ This\ class\ is\ used\ to\ initialize\ items\ and\ manage\ everything\ related\ to\ items.\r\n
+comment1.params=pNom\ pPoids
+comment1.target=Item(java.lang.String,\ double)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ Item\r\n\ @param\ String\ le\ nom,\ c'est-\u00E0-dire\ la\ description\ de\ l'item\r\n\ @param\ double\ le\ poids\ de\ l'item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment2.text=\r\n\ Accesseur\ qui\ permet\ d'acc\u00E9der\ au\ nom\ de\ l'item.\r\n\ @return\ le\ nom\ de\ l'item\r\n
+comment3.params=
+comment3.target=double\ getPoids()
+comment3.text=\r\n\ Accesseur\ qui\ permet\ d'acc\u00E9der\ au\ poids\ de\ l'item.\r\n\ @return\ le\ poids\ de\ l'item\ \r\n
+numComments=4

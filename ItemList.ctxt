@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\r\n\ This\ class\ is\ used\ to\ manage\ lists\ of\ items.\r\n
+comment1.params=
+comment1.target=ItemList()
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ ItemList\r\n
+comment2.params=pNom
+comment2.target=Item\ getItemList(java.lang.String)
+comment2.text=\r\n\ Fonction\ qui\ retourne\ l'item\ portant\ le\ nom\ pass\u00E9\ en\ param\u00E8tre\r\n\ @param\ String\ de\ l'item\ que\ l'on\ souhaite\ r\u00E9cup\u00E9rer\r\n\ @return\ l'item\ correspondant\ au\ nom\ passer\ en\ param\u00E8tre\r\n
+comment3.params=pItem
+comment3.target=void\ putItemList(Item)
+comment3.text=\r\n\ Proc\u00E9dure\ qui\ permet\ d'ajouter\ l'item\ pass\u00E9\ en\ param\u00E8tre\r\n\ @param\ Item\ que\ l'on\ souhaite\ ajouter\ dans\ la\ ItemList\r\n
+comment4.params=pItem
+comment4.target=void\ removeItemList(Item)
+comment4.text=\r\n\ Proc\u00E9dure\ qui\ permet\ de\ retirer\ l'item\ pass\u00E9\ en\ param\u00E8tre\r\n\ @param\ Item\ que\ l'on\ souhaite\ retirer\ de\ la\ ItemList\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItemListString()
+comment5.text=\r\n\ Fontion\ qui\ retourne\ les\ items\ sous\ forme\ de\ String\r\n\ @return\ les\ items\ pr\u00E9sent\ dans\ ItemList\r\n
+comment6.params=
+comment6.target=boolean\ itemListIsEmpty()
+comment6.text=\r\n\ Fonction\ qui\ v\u00E9rifie\ si\ l'ItemList\ est\ vide\r\n\ @return\ vrai\ si\ l'ItemList\ est\ vide,\ faux\ sinon\r\n
+numComments=7

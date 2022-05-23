@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \r\n\ This\ class\ allows\ to\ create\ a\ beamer\ which\ is\ a\ kind\ of\ item.\r\n
+comment1.params=pName\ pPoids\ pRoomEnregistre
+comment1.target=Beamer(java.lang.String,\ double,\ Room)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ Beamer\r\n\ @param\ String\ nom\ du\ beamer\r\n\ @param\ double\ poids\ du\ beamer\r\n\ @param\ Room\ salle\ enregistr\u00E9\ du\ beamer\r\n
+comment2.params=
+comment2.target=boolean\ getCharged()
+comment2.text=\r\n\ Accesseur\ de\ l'attribut\ aCharged\r\n\ @return\ boolean\ aCharge\r\n
+comment3.params=
+comment3.target=Room\ getRoomEnregistre()
+comment3.text=\r\n\ Accesseur\ de\ l'attribut\ aRoomEnregistre\r\n\ @return\ Room\ aRoomEnregistre\r\n
+comment4.params=pBoolean
+comment4.target=void\ setCharged(boolean)
+comment4.text=\r\n\ Modificateur\ de\ l'attribut\ aCharged\r\n\ @param\ boolean\ que\ va\ prendre\ l'attribut\r\n
+comment5.params=pRoomEnregistre
+comment5.target=void\ chargeBeamer(Room)
+comment5.text=\r\n\ Proc\u00E9dure\ qui\ permet\ de\ charger\ le\ beamer\r\n\ @param\ Room\ que\ l'on\ veut\ enregistrer\ dans\ le\ beamer\r\n
+numComments=6

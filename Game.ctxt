@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \r\n\ It\ allows\ you\ to\ create\ the\ game\ and\ intialize\ its\ internal\ card\ as\ well\ as\ its\ interface.\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Cr\u00E9e\ le\ jeu\ et\ initialise\ sa\ carte\ interne.\ \r\n\ Cr\u00E9e\ l'interface\ et\ cr\u00E9e\ un\ lien\ vers\ celle-ci.\r\n
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\ This\ class\ is\ used\ to\ initialize\ commands\ and\ manage\ everything\ related\ to\ commands.\r\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ naturel\r\n\ @param\ pCommandWord\ String\ pour\ initialiser\ aCommandWord\r\n\ @param\ pSecondWord\ String\ pour\ initialiser\ aSecondWord\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Accesseur\ pour\ aCommandWord\r\n\ @return\ le\ premier\ mot\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Accesseur\ pour\ aSecondWord\r\n\ @return\ le\ second\ mot\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ Permet\ de\ v\u00E9rifier\ qu'un\ second\ mot\ a\ bien\ \u00E9t\u00E9\ tap\u00E9\r\n\ @return\ true\ si\ il\ y'a\ un\ second\ mot\ sinon\ elle\ renvoie\ false\r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ Permet\ de\ v\u00E9rifier\ si\ le\ premier\ mot\ est\ null\r\n\ @return\ true\ si\ le\ premier\ mot\ est\ null\ sinon\ elle\ renvoie\ false\r\n
+numComments=6
